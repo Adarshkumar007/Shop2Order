@@ -12,6 +12,8 @@ https://drive.google.com/file/d/1dCQebRhrxobgdMBJ_EwdQVCaNTi49Cys/view?usp=shari
 
 4)**_Price of this project is Rs.500_**
 
+https://github.com/Adarshkumar007/Shop2Order/assets/106680403/5434010f-7393-484e-87c9-0ca510812e0a
+
 ## Key Features
 - Seamless shopping experience
 - Real-time order tracking
